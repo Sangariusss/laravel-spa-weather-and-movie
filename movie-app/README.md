@@ -1,4 +1,4 @@
-# Movies App
+# Movie App
 
 ## Table of Contents
 
